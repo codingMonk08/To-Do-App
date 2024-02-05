@@ -1,7 +1,8 @@
 # To-Do-App 
 
 
-## Description ### [Link](https://shankardeshpande.github.io/To-Do-App/)
+## Description 
+### [Link](https://shankardeshpande.github.io/To-Do-App/)
 A simple To-Do app to manage your tasks. Add and delete tasks with ease.
 
 ## Features
